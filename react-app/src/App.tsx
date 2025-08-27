@@ -1,12 +1,11 @@
-import Message from './assets/Message'
+import Message from './Message';
 
 function App() {
   return (
     <div>
-      h1
       <Message />
     </div>
-  )
+  );
 }
 
-export default App
+export default App;
